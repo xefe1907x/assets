@@ -12,7 +12,7 @@ USAGE
 #>
 
 
-$url = "https://raw.githubusercontent.com/xefe1907x/assets/refs/heads/main/Photos_for_Wallpaper/monkey.jpg"
+$url = "https://raw.githubusercontent.com/xefe1907x/assets/refs/heads/main/Photos_for_Wallpaper/Charlie.jpg"
 $outputPath = "$env:temp\img.jpg"
 $wallpaperStyle = 2  # 0: Tiled, 1: Centered, 2: Stretched
 
